@@ -1,6 +1,13 @@
 ## Hey there, I'm Dans! 👋
-![Image](https://github.com/user-attachments/assets/e562a3a1-aec9-478c-a913-fd67fb93f5a0)
 
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/bed623b0-918f-4b9c-a394-2d40636bc9f3" 
+    alt="Dans Logo" 
+    width="200" 
+  />
+</p>
 👩🏻‍💻 Data-driven Machine Learning Engineer with experience in autonomous research agents, facial recognition, and trade optimization.
 
 🎓 Graduated with a Bachelor's degree in Physics from UC Berkeley in the Bay Area.
