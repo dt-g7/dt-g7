@@ -1,7 +1,7 @@
 ## Hey there, I'm dans! 👋
 👩🏻‍💻 Data-driven Machine Learning Engineer with experience in autonomous research agents, facial recognition, and trade optimization.
 
-🎓 Studied Physics at the UC Berkeley in the Bay Area
+🎓 Graduated with a BA degree in Physics from UC Berkeley in the Bay Area.
 
 💭 Currently diving into diffusion models and generative AI!
 
