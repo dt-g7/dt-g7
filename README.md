@@ -8,11 +8,4 @@
   />
 </p>
 
-👩🏻‍💻 Data-driven Machine Learning Engineer with experience in autonomous research agents, facial recognition, and reinforcement learning
-
 🎓 Graduated with a Bachelor's degree in Physics from UC Berkeley
-
-💭 Currently diving into Generative AI, GNNs, and Polymer Prediction !
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dansqto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danstoast@berkeley.edu)
